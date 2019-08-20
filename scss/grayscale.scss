@@ -13,6 +13,17 @@ body {
   letter-spacing: 0.0625em;
 }
 
+#particles-js{
+  height: 100%;
+  width: 100%;
+  background: black;
+  z-index: 30;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+
 a {
   color: $primary;
   &:focus,
