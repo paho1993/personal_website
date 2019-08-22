@@ -1,8 +1,14 @@
+/*!
+ * Start Bootstrap - Maciej Pacholak v1.0.0 (https://startbootstrap.com/template-overviews/grayscale)
+ * Copyright 2013-2019 Maciej Pacholak
+ * Licensed under MIT (https://github.com/BlackrockDigital/personal_website/blob/master/LICENSE)
+ */
+
 #mainNav {
   min-height: 56px;
   background-color: #fff;
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #mainNav .navbar-toggler {
@@ -140,7 +146,7 @@
 
 .btn {
   -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-          box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   font-family: 'Varela Round';
   font-size: 80%;
@@ -216,14 +222,14 @@
 .carousel-inner img {
   height: 30vh;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 @media (min-width: 750px) {
   .carousel-inner img {
     height: 60vh;
     -o-object-fit: cover;
-       object-fit: cover;
+    object-fit: cover;
   }
 }
 
@@ -239,7 +245,7 @@
 
 .signup-section .form-inline input {
   -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-          box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   height: auto;
   font-family: 'Varela Round';
@@ -333,4 +339,3 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
-/*# sourceMappingURL=grayscale.css.map */
