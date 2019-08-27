@@ -14,7 +14,7 @@ body {
 }
 
 #particles-js{
-  height: 150%;
+  height: 170%;
   width: 100%;
   background: black;
   z-index: 30;
@@ -23,6 +23,11 @@ body {
   left: 0;
   border-bottom: 0.25rem solid #64a19d
 
+}
+@media(min-width: 500px) {
+  #particles-js{
+    height: 150%;
+  }
 }
 
 a {
